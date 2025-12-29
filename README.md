@@ -14,6 +14,9 @@
 * [Project Name 3](https://github.com/gspweim/personal-site) - A personal portfolio site built with React.
 * [Project Name 4](https://github.com/gspweim/personal-blog) - A Markdown-based blog engine.
 
+### 🌐 3d Printing
+* [PHP_STL](https://github.com/gspweim/php_stl) - A Class written in php that loads an stl file and lets you manipulate it at the triangular level.
+* [Thingiverse_Creations](https://www.thingiverse.com/gspweim/designs) - Some simple designs I have put on thingiverse.
 ---
 
 ## 🛠 Tech Stack
