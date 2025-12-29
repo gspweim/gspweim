@@ -1,10 +1,10 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm GspWeim 
 
 ## 📁 Project Portfolio
 
-### 🤖 Machine Learning & AI (Job A)
-* [Project Name 1](https://github.com/gspweim/joba-project1) - Brief description of the TensorFlow/Orin Nano project.
-* [Project Name 2](https://github.com/gspweim/joba-project2) - Real-time object detection using JetPack 6.1.
+### 🤖 Machine Learning & AI 
+* [jetson-nano-orin-tensorflow](https://github.com/gspweim/jetson-nano-orin-tensorflow) - As of this writing, nvidia did not support Tensorflow with Cuda on te nano using the jetson-containers and jetpack 6.1. This docker image will finally let you do that.
+* [ThingsThatRunInACircle](https://github.com/gspweim/joba-project2) - Private project using tensorflow to predict how fast certain thingss will go, based on past events 
 
 ### 🌐 Web Development (Personal)
 * [Project Name 3](https://github.com/gspweim/personal-site) - A personal portfolio site built with React.
