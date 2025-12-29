@@ -3,7 +3,7 @@
 ## 📁 Project Portfolio
 
 ### 🤖 Machine Learning & AI 
-* [jetson-nano-orin-tensorflow](https://github.com/gspweim/jetson-nano-orin-tensorflow) - As of this writing, nvidia did not support Tensorflow with Cuda on te nano using the jetson-containers and jetpack 6.1. This docker image will finally let you do that.
+* [jetson-nano-orin-tensorflow](https://github.com/gspweim/jetson-nano-orin-tensorflow) - As of this writing, nvidia did not support Tensorflow with Cuda on the Jetson Nano using the jetson-containers and jetpack 6.1. This docker image will finally let you do that.
 * [ThingsThatRunInACircle](https://github.com/gspweim/) - Private project using tensorflow to predict how fast certain things will go, based on past events
 * [React_Ollama](https://github.com/gspweim/react_ollama) - Simple React client to call your local Ollama via apis. Single page, can run from browser locally
 
