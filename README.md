@@ -11,8 +11,7 @@
 * [E-ink Weather](https://github.com/gspweim/TRMNL_75_Weather) - For your TRMNL 7.5 BYOD E-Ink from Seeed. Shows current and future weather forcasts for your area. Arduino
   
 ### 🌐 Web Development
-* [Project Name 3](https://github.com/gspweim/personal-site) - A personal portfolio site built with React.
-* [Project Name 4](https://github.com/gspweim/personal-blog) - A Markdown-based blog engine.
+* [Biblio](https://github.com/gspweim/book_collection) - Python /Flask based application to catalog and manage your books via openlibrary.org apis
 
 ### 🌐 3d Printing
 * [PHP_STL](https://github.com/gspweim/php_stl) - A Class written in php that loads an stl file and lets you manipulate it at the triangular level.
