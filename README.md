@@ -3,7 +3,7 @@
 ## 📁 Project Portfolio
 
 ### CalSol
-* [solar_car_inventory](https://github.com/gspweim/solar_car_inventory) - A project for the Solar Car team (CalSol) at UC Berkeley so that they can track the parts on there solar cars. It uses AWS Lambda for the Apis, Dynamodb for the database and React in an S3 bucket all through Cloud Front. Developed with Claude Code, hosted at http://inventory.calsol.org
+* [solar_car_inventory](https://github.com/gspweim/solar_car_inventory) - A project for the Solar Car team (CalSol) at UC Berkeley so that they can track the parts on their solar cars. It uses AWS Lambda for the Apis, Dynamodb for the database and React in an S3 bucket all through CloudFront Google Cloud for authentication, . Developed with Claude Code, hosted at http://inventory.calsol.org.
   
 ### 🤖 Machine Learning & AI 
 * [jetson-nano-orin-tensorflow](https://github.com/gspweim/jetson-nano-orin-tensorflow) - As of this writing, nvidia does not support a working Tensorflow with Cuda on the Jetson Nano using the jetson-containers and jetpack 6.1. This docker image will finally let you do that you run your own container that works.
